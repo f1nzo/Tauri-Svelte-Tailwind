@@ -4,6 +4,13 @@
 npm create tauri-app@latest
 ```
 
+# Install Dependencies
+
+```
+cd [APP NAME]
+npm install
+```
+
 # Install TailwindCSS (svelte)
 
 Project root:

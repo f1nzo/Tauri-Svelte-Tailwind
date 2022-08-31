@@ -1,5 +1,3 @@
-# tauri-recipes
-
 # Create the project
 
 ```
@@ -49,3 +47,6 @@ run project:
 ```
 npm run tauri dev
 ```
+
+# Credit
+most of this is copied directly from: https://github.com/BigBadSnowcaps/tauri-recipes/edit/main/README.md

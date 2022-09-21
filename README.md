@@ -62,7 +62,7 @@ npm run tauri dev
 # POSSIBLE ERRORS
 
 command: 
-```npx tailwindcss init -p```
+```npx tailwindcss init -p```\n
 error:
 ```TypeError: Object.fromEntries is not a function```
 

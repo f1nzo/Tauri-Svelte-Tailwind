@@ -4,6 +4,10 @@
 npm create tauri-app@latest
 ```
 
+Select these options:
+1. npm
+2. svelte
+
 # Install Dependencies
 
 ```

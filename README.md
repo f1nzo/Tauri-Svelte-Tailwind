@@ -71,6 +71,3 @@ fix:
 1. `sudo npm i -g n`
 2. `n latest`
 3. close and re-open terminal
-
-# Credit
-most of this is copied directly from: https://github.com/BigBadSnowcaps/tauri-recipes/edit/main/README.md

@@ -59,6 +59,27 @@ run project:
 npm run tauri dev
 ```
 
+# Optional: DasiyUI
+
+install daisyUI:
+
+```
+npm i daisyui
+```
+
+modify tailwind.config.cjs:
+
+```cjs
+/** @type {import('tailwindcss').Config} */ 
+module.exports = {
+  content: ['./src/**/*.{html,js,svelte,ts}'],
+  theme: {
+    extend: {}
+  },
+  plugins: [require("daisyui")], // added daisyui as a plugin
+};
+```
+
 # POSSIBLE ERRORS
 
 command: 
